@@ -7,7 +7,7 @@
 </head>
 <body>
 <header>
-<img src="c:\pumpkin.gif" alt="pumpkin">
+<img src="C:\Users\Mehul Patel\Desktop\Assignment_halloween\images\pumpkin.gif" alt="pumpkin">
 <h2>The Halloween Store </h2>
 
 <h3>For the little Goblin in all of us! </h3>
