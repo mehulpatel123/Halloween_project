@@ -8,6 +8,8 @@
 <body>
 <header>
 <img src="images\pumpkin.gif" alt="pumpkin">
+<br>
+<a href="../products/pumpkin.html">20' Deranged cat</a>
 <h2>The Halloween Store </h2>
 
 <h3>For the little Goblin in all of us! </h3>
